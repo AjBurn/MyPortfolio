@@ -1,0 +1,28 @@
+body {
+    background-image: url(../images/rivermtn.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cover {
+    margin: 300px 0px 0px 0px;
+}
+
+.coverPort {
+    font-size: 40px;
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.coverPar {
+    padding: 0px 25px 0px 25px;
+    font-size: 25px;
+    color: black;
+    font-family: 'Maven Pro', serif;
+}
+
+.coverBtn {
+    font-size: 25px;
+    font-family: 'Maven Pro', serif;
+}

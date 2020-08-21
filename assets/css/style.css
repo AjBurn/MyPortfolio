@@ -1,0 +1,37 @@
+body {
+    background-image: url(../images/);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.github {
+    color: white;
+}
+
+.linkedIn {
+    color: white;
+}
+
+.aboutMe{
+    margin-top: 20px;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.carPar {
+    color: black;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 90px;
+    line-height: 60px;
+    color: white;
+}
